@@ -17,6 +17,13 @@
     :alt: Documentation Status
 
 ===========
+Subset Goal
+===========
+
+We simply want to do nearest neighbors where we calculate *all* nearest neighbor
+distances to a subset of points.... should be an easy lift
+
+===========
 PyNNDescent
 ===========
 
